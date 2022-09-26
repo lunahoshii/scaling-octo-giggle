@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Санкт-Петербург",
       "img": "https://i.imgur.com/1JosqMG.png",
-      "price": 2000,
+      "price": 2000
     },
     {
       "id": 2,
       "name": "Москва",
       "img": "https://i.imgur.com/ipu0AbO.png",
-      "price": 2345,
+      "price": 2345
     },
     {
       "id": 3,
       "name": "Краснодар",
       "img": "https://i.imgur.com/RlaztVn.png",
-      "price": 1400,
+      "price": 1400
     },
     {
       "id": 4,
       "name": "Новосибирск",
       "img": "https://i.imgur.com/BqB26vz.png",
-      "price": 1230,
+      "price": 1230
     },
     {
       "id": 5,
       "name": "Екатеринбург",
       "img": "https://i.imgur.com/5QV9nAi.png",
-      "price": 1600,
+      "price": 1600
     },
     {
       "id": 6,
